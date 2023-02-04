@@ -20,4 +20,5 @@ Run this command: **npx cypress open**
 - [LinkedIn](https://www.linkedin.com/in/canseker)
 - [GitHub](https://github.com/can-seker)
 - [Instagram](https://www.instagram.com/can.sekerr)
+- [Youtube](https://www.youtube.com/@can-seker/)
 - [Mail](can.seker.official@gmail.com)
